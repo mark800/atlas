@@ -28,6 +28,7 @@ import java.util.Set;
 public class LineageExample {
     private AtlasClientV2 atlasClient;
 
+    
     LineageExample(AtlasClientV2 atlasClient) {
         this.atlasClient = atlasClient;
     }
